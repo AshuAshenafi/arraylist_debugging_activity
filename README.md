@@ -1,0 +1,1 @@
+"#This code was first made by somebody else to create arraylist, to show the list, to remove some items, and to display the list again. There was error but has been fixed to be executed as intended." 
